@@ -1,0 +1,5 @@
+technical/plos/journal.pbio.0020133.txt:        sequences (RNA or DNA) by basepairing. Depending on the protein composition of the effector
+technical/plos/journal.pbio.0020133.txt:        expression. In theory, antisense RNA encoded by a transgene should basepair to the
+technical/plos/journal.pbio.0020133.txt:        control ‘sense’ transgene RNAs are unable to basepair to mRNA and hence should not induce
+technical/plos/journal.pbio.0020133.txt:        miRNAs effect silencing by basepairing to the 3′ ends of target mRNAs and repressing
+technical/plos/journal.pbio.0020431.txt:        Intermolecular interactions can be precisely predicted by Watson–Crick basepairing (adenine
